@@ -1,0 +1,25 @@
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\gestion_documental.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\gestion_documental.pdb
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\obj\Debug\gestion_documental.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\obj\Debug\gestion_documental.pdb
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\LumiSoft.Net.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\MySql.Data.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\MySql.Data.Entity.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\MySql.Web.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\OpenPop.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\LumiSoft.Net.pdb
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\LumiSoft.Net.xml
+C:\Users\yvert\Documents\gestionV2\gestion_documental\gestion_documental\bin\gestion_documental.dll
+C:\Users\yvert\Documents\gestionV2\gestion_documental\gestion_documental\bin\gestion_documental.pdb
+C:\Users\yvert\Documents\gestionV2\gestion_documental\gestion_documental\bin\LumiSoft.Net.dll
+C:\Users\yvert\Documents\gestionV2\gestion_documental\gestion_documental\bin\MySql.Data.dll
+C:\Users\yvert\Documents\gestionV2\gestion_documental\gestion_documental\bin\MySql.Data.Entity.dll
+C:\Users\yvert\Documents\gestionV2\gestion_documental\gestion_documental\bin\MySql.Web.dll
+C:\Users\yvert\Documents\gestionV2\gestion_documental\gestion_documental\bin\OpenPop.dll
+C:\Users\yvert\Documents\gestionV2\gestion_documental\gestion_documental\bin\LumiSoft.Net.pdb
+C:\Users\yvert\Documents\gestionV2\gestion_documental\gestion_documental\bin\LumiSoft.Net.xml
+C:\Users\yvert\Documents\gestionV2\gestion_documental\gestion_documental\obj\Debug\gestion_documental.csprojResolveAssemblyReference.cache
+C:\Users\yvert\Documents\gestionV2\gestion_documental\gestion_documental\obj\Debug\gestion_documental.dll
+C:\Users\yvert\Documents\gestionV2\gestion_documental\gestion_documental\obj\Debug\gestion_documental.pdb
+C:\Users\yvert\Documents\gestionV2\gestion_documental\gestion_documental\bin\AjaxControlToolkit.dll

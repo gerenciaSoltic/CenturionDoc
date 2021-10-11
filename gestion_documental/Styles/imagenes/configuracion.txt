@@ -1,0 +1,97 @@
+
+A  continuación   se muestra  la forma  de  configurar el estilo de  los  controles:
+
+La  informacion relevante se  encuentra  en el CssClass.
+
+1.Control Label:
+
+      <asp:Label ID="NombreLabel" CssClass="label" runat="server" Text=""></asp:Label>
+	  
+2. Control TextBox :
+
+       <asp:TextBox ID="NombreTextBox" CssClass="textBox" runat="server"  TabIndex="1"></asp:TextBox>
+	   <asp:TextBox ID="NombreTextBox" CssClass="textBox" runat="server"  TabIndex="2"></asp:TextBox>
+
+3.Control DropDownList
+
+    <asp:DropDownList ID="OpcionesDropDownList" runat="server"  CssClass="combo" width="150px" >
+       <asp:ListItem Text="opcion1"></asp:ListItem>
+       <asp:ListItem Text="opcion2"></asp:ListItem>
+    </asp:DropDownList>
+	   
+	   
+4.Control RadioButtonList
+
+<asp:RadioButtonList ID="OpcionesRadioButtonList" runat="server" CssClass="optionGroup"  >
+  <asp:ListItem Text="opcion1"></asp:ListItem>
+  <asp:ListItem Text="opcion2"></asp:ListItem>
+</asp:RadioButtonList>
+	  
+5. Control GridView
+
+       <asp:GridView ID="PlansidefGridView" runat="server" AllowPaging="true" AllowSorting="true"
+                                                            AutoGenerateColumns="False" DataKeyNames="id" DataSourceID="test" CssClass="grid"
+                                                            ShowHeaderWhenEmpty="true" Height="100px" CellPadding="3" CellSpacing="0" Border="0"  GridLines="None" >
+                                                            <Columns>    
+                                                                <asp:CommandField   SelectText="  &rArr;"  ShowSelectButton="true" ControlStyle-CssClass="buttonItem"   />
+                                                                <asp:BoundField DataField="id" HeaderText="Id" InsertVisible="False" ReadOnly="True"
+                                                                    SortExpression="id" />
+                                                                <asp:BoundField DataField="nombre" HeaderText="Nombre" SortExpression="nombre" />
+                                                                <asp:BoundField DataField="cuenta" HeaderText="Cuenta" SortExpression="cuenta" />
+                                                                <asp:BoundField DataField="aux" HeaderText="Es Axiliar" SortExpression="aux" />
+                                                            </Columns>
+                                                            <HeaderStyle CssClass="HeaderGrid" ForeColor="WhiteSmoke" />
+                                                            <RowStyle CssClass="gridRow" Wrap="false" />
+                                                            <PagerStyle  CssClass="pager" />
+                                                            <AlternatingRowStyle CssClass="alternateRow" />
+                                                        </asp:GridView>
+														
+														
+6. control  panel  contenedor  de  la pagina
+// trabajar el  width del panel con porcentajes
+    <asp:Panel ID="Panel2" runat="server" Width="98%" Height="100%" CssClass="panel"
+                    GroupingText="Titulo Plansidef" >
+            														
+	</asp:Panel>													
+	
+														
+2.A  continuación se  presenta    la  estructura  de  la página
+
+
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
+    //  contenido cabecera
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="Titulo" runat="server">
+    //Area  de  titulo
+    <asp:Label runat="server" ID="title" Text="PlanSide" Style="width=100%"> </asp:Label>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="Mensajes" runat="server">
+    // Area  de  mensajes...   no esta  aprobada...
+    <asp:Label runat="server" ID="Msj" Style="width=100%"> </asp:Label>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
+     //Area  para  el  contenido de la pagina                                               
+	 //se  propone
+    	 
+	  <table align="center">
+        <tr>
+            <td class="style2">
+                <asp:Panel ID="Panel2" runat="server" Width="98%" Height="100%" CssClass="panel"
+                    GroupingText="Titulo Plansidef" >
+                    <table style="width: 95%" align="center">
+                        <tr>
+						  <td width="1%">
+                            </td>
+                            <td width="98%">							
+							//  colocar  aca  el contenido  normal  de la  pagina
+                            </td>
+		  		            <td width="1%">
+                            </td>
+						</tr>
+                    </table>
+                </asp:Panel>
+            </td>
+        </tr>
+    </table>
+	 
+</asp:Content>	  

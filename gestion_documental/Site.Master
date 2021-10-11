@@ -1,0 +1,107 @@
+﻿<%@ Master Language="C#" AutoEventWireup="True" CodeBehind="Site.master.cs" Inherits="gestion_documental.SiteMaster" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<%@ Register TagPrefix="uc" Src="~/usercontrols/MenuUserControl.ascx" TagName="menu" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Gestión Documental</title>
+
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+
+<body>
+
+
+<div style="width: 100%; height: 100%">
+<div style="width: 100%; height: 10%">
+    <asp:Image ID="IdBanner" runat="server" ImageUrl ="Images/encabezado_soft_login.png" style="width: 100%; height: 10%" />  
+
+
+        
+</div>
+<div style="width: 100%; height: 80%">
+<form id="form1" runat = "server" style="border-style: inset; border-width: medium">
+    
+    <table class="master" cellpadding="0" cellspacing="0">
+         <tr>
+            <td class="colLeft">
+            </td>
+            <td class="otrasColumnas">
+            </td>
+            <td class="otrasColumnas">
+            </td>
+            <td class="otrasColumnas">
+            </td>
+        </tr>
+          <tr>
+            <td class="areaMenu" valign="top">
+               
+                <asp:Panel runat="server" ID="TituloMenuPanel" CssClass="tituloMenu" BorderColor="#02223A"
+                    BorderWidth="1">
+                    <asp:Label ID="TituloMenuLabel" Text="Menu Principal" runat="server">
+                    </asp:Label>
+                </asp:Panel>
+                <uc:menu ID="Menu" runat="server"></uc:menu>
+                
+            </td>
+            <td colspan="3" class="topAreaTrabajo" valign="top">
+                <asp:UpdatePanel ID="ButtonsUpdatePanel" UpdateMode="Conditional" runat="server">
+                    <ContentTemplate>
+                        <table class="dentroAreaTrabajo" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td class="titulo" valign="top">
+                                    <asp:Panel ID="tituloPanel" CssClass="tituloPanel" runat="server" BorderWidth="2"
+                                        BorderColor="#441501">
+                                        <asp:ContentPlaceHolder ID="Titulo" runat="server" />
+                                    </asp:Panel>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="mensajes">
+                                    <asp:ContentPlaceHolder ID="Usuario" runat="server" />
+                                    <asp:updateprogress ID="updateprogress4" runat="server">
+                                     <ProgressTemplate>
+                                       <center>
+                                        Procesando.. , Espere un momento por favor<br />
+                                       <br />
+                                     <img src="Images/loader.gif" alt="" />
+                                   </center>
+                                  </ProgressTemplate>
+                               </asp:updateprogress>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="mensajes">
+                                    <asp:ContentPlaceHolder ID="Mensajes" runat="server" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="areaTrabajo">
+                                    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                                </td>
+                            </tr>
+                        </table>
+                    </ContentTemplate>
+                </asp:UpdatePanel>
+            </td>
+        </tr>
+     </table>   
+</form>
+</div>
+</div> 
+</body>
+
+<script language="javascript" type="text/javascript">
+    raisePostBack = function (clientID) {
+
+        __doPostBack(clientID, "");
+    }
+</script>
+</html>

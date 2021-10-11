@@ -1,0 +1,393 @@
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\gestion_documental.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\gestion_documental.pdb
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\obj\Debug\gestion_documental.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\obj\Debug\gestion_documental.pdb
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\LumiSoft.Net.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\MySql.Data.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\MySql.Data.Entity.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\MySql.Web.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\OpenPop.dll
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\LumiSoft.Net.pdb
+C:\Documents and Settings\yz\Escritorio\documentosVS\gestionV2\gestion_documental\gestion_documental\bin\LumiSoft.Net.xml
+C:\Users\ACER\Google Drive\gestion\gestion_documental\gestion_documental\bin\gestion_documental.dll
+C:\Users\ACER\Google Drive\gestion\gestion_documental\gestion_documental\bin\gestion_documental.pdb
+C:\Users\ACER\Google Drive\gestion\gestion_documental\gestion_documental\bin\LumiSoft.Net.dll
+C:\Users\ACER\Google Drive\gestion\gestion_documental\gestion_documental\bin\OpenPop.dll
+C:\Users\ACER\Google Drive\gestion\gestion_documental\gestion_documental\bin\LumiSoft.Net.pdb
+C:\Users\ACER\Google Drive\gestion\gestion_documental\gestion_documental\bin\LumiSoft.Net.xml
+C:\Users\ACER\Google Drive\gestion\gestion_documental\gestion_documental\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ACER\Google Drive\gestion\gestion_documental\gestion_documental\obj\Debug\gestion_documental.dll
+C:\Users\ACER\Google Drive\gestion\gestion_documental\gestion_documental\obj\Debug\gestion_documental.pdb
+C:\Users\ACER\Google Drive\gestion\gestion_documental\gestion_documental\bin\AjaxControlToolkit.dll
+C:\Users\ACER\Documents\CONSORCIO CONSTRUSOFT\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\gestion_documental.dll
+C:\Users\ACER\Documents\CONSORCIO CONSTRUSOFT\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\gestion_documental.pdb
+C:\Users\ACER\Documents\CONSORCIO CONSTRUSOFT\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\AjaxControlToolkit.dll
+C:\Users\ACER\Documents\CONSORCIO CONSTRUSOFT\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\LumiSoft.Net.dll
+C:\Users\ACER\Documents\CONSORCIO CONSTRUSOFT\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\OpenPop.dll
+C:\Users\ACER\Documents\CONSORCIO CONSTRUSOFT\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\LumiSoft.Net.pdb
+C:\Users\ACER\Documents\CONSORCIO CONSTRUSOFT\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\LumiSoft.Net.xml
+C:\Users\ACER\Documents\CONSORCIO CONSTRUSOFT\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\gestion_documental.dll
+C:\Users\ACER\Documents\CONSORCIO CONSTRUSOFT\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\gestion_documental.pdb
+C:\Users\ACER\Documents\CONSORCIO CONSTRUSOFT\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\gestion_documental.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\gestion_documental.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\gestion_documental.dll
+C:\Users\ACER\Documents\SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\gestion_documental.dll
+C:\Users\ACER\Documents\SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\gestion_documental.pdb
+C:\Users\ACER\Documents\SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\AjaxControlToolkit.dll
+C:\Users\ACER\Documents\SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\LumiSoft.Net.dll
+C:\Users\ACER\Documents\SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\OpenPop.dll
+C:\Users\ACER\Documents\SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\LumiSoft.Net.pdb
+C:\Users\ACER\Documents\SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\LumiSoft.Net.xml
+C:\Users\ACER\Documents\SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\gestion_documental.pdb
+C:\Users\ACER\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\gestion_documental.dll
+C:\Users\ACER\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\gestion_documental.pdb
+C:\Users\ACER\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\AjaxControlToolkit.dll
+C:\Users\ACER\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\LumiSoft.Net.dll
+C:\Users\ACER\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\OpenPop.dll
+C:\Users\ACER\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\LumiSoft.Net.pdb
+C:\Users\ACER\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\LumiSoft.Net.xml
+C:\Users\ACER\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\gestion_documental.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\gestion_documental.dll
+C:\Users\ACER\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\gestion_documental.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\gestion_documental.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\gestion_documental.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\AjaxControlToolkit.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\LumiSoft.Net.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\OpenPop.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\LumiSoft.Net.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\bin\LumiSoft.Net.xml
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\gestion_documental.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\gestion_documental.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\gestion_documental.csprojResolveAssemblyReference.cache
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\RdlCompile.cache
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\obj\Debug\RdlCompile.compiled
+D:\gestion_documental\trunk\gestion_documental\obj\Debug\RdlCompile.cache
+D:\gestion_documental\trunk\gestion_documental\obj\Debug\RdlCompile.compiled
+D:\gestion_documental\trunk\gestion_documental\obj\Debug\gestion_documental.dll
+D:\gestion_documental\trunk\gestion_documental\bin\gestion_documental.dll
+D:\gestion_documental\trunk\gestion_documental\bin\gestion_documental.pdb
+D:\gestion_documental\trunk\gestion_documental\bin\AjaxControlToolkit.dll
+D:\gestion_documental\trunk\gestion_documental\bin\LumiSoft.Net.dll
+D:\gestion_documental\trunk\gestion_documental\bin\MySql.Data.dll
+D:\gestion_documental\trunk\gestion_documental\bin\MySql.Data.Entity.dll
+D:\gestion_documental\trunk\gestion_documental\bin\MySql.Web.dll
+D:\gestion_documental\trunk\gestion_documental\bin\OpenPop.dll
+D:\gestion_documental\trunk\gestion_documental\bin\LumiSoft.Net.pdb
+D:\gestion_documental\trunk\gestion_documental\bin\LumiSoft.Net.xml
+D:\gestion_documental\trunk\gestion_documental\obj\Debug\gestion_documental.pdb
+D:\gestion_documental\trunk\gestion_documental\obj\Debug\gestion_documental.csprojResolveAssemblyReference.cache
+D:\gestion_documental\trunk\gestion_documental\bin\ExcelLibrary.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\trunk\gestion_documental\bin\gestion_documental.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\trunk\gestion_documental\bin\gestion_documental.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\trunk\gestion_documental\bin\AjaxControlToolkit.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\trunk\gestion_documental\bin\ExcelLibrary.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\trunk\gestion_documental\bin\LumiSoft.Net.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\trunk\gestion_documental\bin\OpenPop.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\trunk\gestion_documental\bin\LumiSoft.Net.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\trunk\gestion_documental\bin\LumiSoft.Net.xml
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\trunk\gestion_documental\obj\Debug\RdlCompile.cache
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\trunk\gestion_documental\obj\Debug\RdlCompile.compiled
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\trunk\gestion_documental\obj\Debug\gestion_documental.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\trunk\gestion_documental\obj\Debug\gestion_documental.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\gestion_documental\gestion_documental\trunk\gestion_documental\obj\Debug\gestion_documental.csprojResolveAssemblyReference.cache
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\CENTURON_DOC\gestion_documental\bin\gestion_documental.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\CENTURON_DOC\gestion_documental\bin\gestion_documental.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\CENTURON_DOC\gestion_documental\bin\AjaxControlToolkit.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\CENTURON_DOC\gestion_documental\bin\ExcelLibrary.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\CENTURON_DOC\gestion_documental\bin\LumiSoft.Net.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\CENTURON_DOC\gestion_documental\bin\OpenPop.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\CENTURON_DOC\gestion_documental\bin\LumiSoft.Net.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\CENTURON_DOC\gestion_documental\bin\LumiSoft.Net.xml
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\CENTURON_DOC\gestion_documental\obj\Debug\gestion_documental.csprojResolveAssemblyReference.cache
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\CENTURON_DOC\gestion_documental\obj\Debug\RdlCompile.cache
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\CENTURON_DOC\gestion_documental\obj\Debug\RdlCompile.compiled
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\CENTURON_DOC\gestion_documental\obj\Debug\gestion_documental.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\CENTURON_DOC\gestion_documental\obj\Debug\gestion_documental.pdb
+C:\CENTURON_DOC\gestion_documental\obj\Debug\RdlCompile.cache
+C:\CENTURON_DOC\gestion_documental\obj\Debug\RdlCompile.compiled
+C:\CENTURON_DOC\gestion_documental\bin\gestion_documental.dll
+C:\CENTURON_DOC\gestion_documental\bin\gestion_documental.pdb
+C:\CENTURON_DOC\gestion_documental\bin\AjaxControlToolkit.dll
+C:\CENTURON_DOC\gestion_documental\bin\ExcelLibrary.dll
+C:\CENTURON_DOC\gestion_documental\bin\LumiSoft.Net.dll
+C:\CENTURON_DOC\gestion_documental\bin\MySql.Data.dll
+C:\CENTURON_DOC\gestion_documental\bin\MySql.Data.Entity.dll
+C:\CENTURON_DOC\gestion_documental\bin\MySql.Web.dll
+C:\CENTURON_DOC\gestion_documental\bin\OpenPop.dll
+C:\CENTURON_DOC\gestion_documental\bin\LumiSoft.Net.pdb
+C:\CENTURON_DOC\gestion_documental\bin\LumiSoft.Net.xml
+C:\CENTURON_DOC\gestion_documental\obj\Debug\gestion_documental.dll
+C:\CENTURON_DOC\gestion_documental\obj\Debug\gestion_documental.pdb
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\bin\gestion_documental.dll
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\bin\gestion_documental.pdb
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\bin\AjaxControlToolkit.dll
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\bin\ExcelLibrary.dll
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\bin\LumiSoft.Net.dll
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\bin\MySql.Data.dll
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\bin\MySql.Data.Entity.dll
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\bin\MySql.Web.dll
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\bin\OpenPop.dll
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\bin\LumiSoft.Net.pdb
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\bin\LumiSoft.Net.xml
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\obj\Debug\ResolveAssemblyReference.cache
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\obj\Debug\RdlCompile.cache
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\obj\Debug\RdlCompile.compiled
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\obj\Debug\gestion_documental.dll
+C:\BCK_PC_PINO\CENTURON_DOC\gestion_documental\obj\Debug\gestion_documental.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\GES\gestion_documental\bin\gestion_documental.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\GES\gestion_documental\bin\gestion_documental.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\GES\gestion_documental\bin\AjaxControlToolkit.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\GES\gestion_documental\bin\ExcelLibrary.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\GES\gestion_documental\bin\LumiSoft.Net.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\GES\gestion_documental\bin\OpenPop.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\GES\gestion_documental\bin\LumiSoft.Net.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\GES\gestion_documental\bin\LumiSoft.Net.xml
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\GES\gestion_documental\obj\Debug\RdlCompile.cache
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\GES\gestion_documental\obj\Debug\RdlCompile.compiled
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\GES\gestion_documental\obj\Debug\gestion_documental.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\GES\gestion_documental\obj\Debug\gestion_documental.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\GES\gestion_documental\obj\Debug\gestion_documental.csprojResolveAssemblyReference.cache
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\bin\gestion_documental.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\bin\gestion_documental.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\bin\AjaxControlToolkit.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\bin\ExcelLibrary.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\bin\LumiSoft.Net.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\bin\OpenPop.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\bin\LumiSoft.Net.pdb
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\bin\LumiSoft.Net.xml
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\obj\Debug\RdlCompile.cache
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\obj\Debug\RdlCompile.compiled
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\obj\Debug\gestion_documental.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\obj\Debug\gestion_documental.pdb
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\gestion_documental.dll
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\gestion_documental.pdb
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\AjaxControlToolkit.dll
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\ExcelLibrary.dll
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\LumiSoft.Net.dll
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\MySql.Data.dll
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\MySql.Data.Entity.dll
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\MySql.Web.dll
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\OpenPop.dll
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\LumiSoft.Net.pdb
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\LumiSoft.Net.xml
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.ResolveComReference.cache
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\obj\Debug\RdlCompile.cache
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\obj\Debug\RdlCompile.compiled
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\obj\Debug\gestion_documental.dll
+D:\Documents\SOLTIC\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\obj\Debug\gestion_documental.pdb
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\gestion_documental.dll
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\gestion_documental.pdb
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\AjaxControlToolkit.dll
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\ExcelLibrary.dll
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\LumiSoft.Net.dll
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\OpenPop.dll
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\LumiSoft.Net.pdb
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\LumiSoft.Net.xml
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.ResolveComReference.cache
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\obj\Debug\RdlCompile.cache
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\obj\Debug\RdlCompile.compiled
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\obj\Debug\gestion_documental.dll
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\obj\Debug\gestion_documental.pdb
+D:\Aguirre-Project\Alcaldia - Barranca\Proyecto\centurion_doc\gestion_documental\bin\DocumentFormat.OpenXml.xml
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.ResolveComReference.cache
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\bin\CKEditor.NET.dll
+f:\Users\Gerencia\Documents\CODIGO FUENTE SOLTIC\SOFTWARE DE GESTION DOCUMENTAL\centurion_doc\gestion_documental\bin\GemBox.Document.dll
+D:\Aguirre-Project\centurion_doc\gestion_documental\bin\gestion_documental.dll
+D:\Aguirre-Project\centurion_doc\gestion_documental\bin\gestion_documental.pdb
+D:\Aguirre-Project\centurion_doc\gestion_documental\bin\AjaxControlToolkit.dll
+D:\Aguirre-Project\centurion_doc\gestion_documental\bin\CKEditor.NET.dll
+D:\Aguirre-Project\centurion_doc\gestion_documental\bin\ExcelLibrary.dll
+D:\Aguirre-Project\centurion_doc\gestion_documental\bin\GemBox.Document.dll
+D:\Aguirre-Project\centurion_doc\gestion_documental\bin\LumiSoft.Net.dll
+D:\Aguirre-Project\centurion_doc\gestion_documental\bin\OpenPop.dll
+D:\Aguirre-Project\centurion_doc\gestion_documental\bin\LumiSoft.Net.pdb
+D:\Aguirre-Project\centurion_doc\gestion_documental\bin\LumiSoft.Net.xml
+D:\Aguirre-Project\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.ResolveComReference.cache
+D:\Aguirre-Project\centurion_doc\gestion_documental\obj\Debug\RdlCompile.cache
+D:\Aguirre-Project\centurion_doc\gestion_documental\obj\Debug\RdlCompile.compiled
+D:\Aguirre-Project\centurion_doc\gestion_documental\obj\Debug\gestion_documental.dll
+D:\Aguirre-Project\centurion_doc\gestion_documental\obj\Debug\gestion_documental.pdb
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.ResolveComReference.cache
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\obj\Debug\RdlCompile.cache
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\obj\Debug\RdlCompile.compiled
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\obj\Debug\gestion_documental.dll
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\obj\Debug\gestion_documental.pdb
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\gestion_documental.dll
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\gestion_documental.pdb
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\AjaxControlToolkit.dll
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\CKEditor.NET.dll
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\DocumentFormat.OpenXml.dll
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\ExcelLibrary.dll
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\GemBox.Document.dll
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\LumiSoft.Net.dll
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\MySql.Data.dll
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\MySql.Data.Entity.dll
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\MySql.Web.dll
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\OpenPop.dll
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\LumiSoft.Net.pdb
+E:\PROYECTOS SOLTIC\centurion_doc\gestion_documental\bin\LumiSoft.Net.xml
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\gestion_documental.dll
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\gestion_documental.pdb
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\AjaxControlToolkit.dll
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\CKEditor.NET.dll
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\DocumentFormat.OpenXml.dll
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\ExcelLibrary.dll
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\GemBox.Document.dll
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\LumiSoft.Net.dll
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\MySql.Data.dll
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\MySql.Data.Entity.dll
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\MySql.Web.dll
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\OpenPop.dll
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\LumiSoft.Net.pdb
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\bin\LumiSoft.Net.xml
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.ResolveComReference.cache
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\obj\Debug\RdlCompile.cache
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\obj\Debug\RdlCompile.compiled
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\obj\Debug\gestion_documental.dll
+C:\Users\Joluro\Desktop\centurion_doc\gestion_documental\obj\Debug\gestion_documental.pdb
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\bin\gestion_documental.dll
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\bin\gestion_documental.pdb
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\bin\AjaxControlToolkit.dll
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\bin\CKEditor.NET.dll
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\bin\DocumentFormat.OpenXml.dll
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\bin\ExcelLibrary.dll
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\bin\LumiSoft.Net.dll
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\bin\MySql.Data.dll
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\bin\MySql.Data.Entity.dll
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\bin\MySql.Web.dll
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\bin\OpenPop.dll
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\bin\LumiSoft.Net.pdb
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\bin\LumiSoft.Net.xml
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.ResolveComReference.cache
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\obj\Debug\RdlCompile.cache
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\obj\Debug\RdlCompile.compiled
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\obj\Debug\gestion_documental.dll
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\obj\Debug\gestion_documental.pdb
+E:\VISION-PAM\PROYECTOS-WORKANA\FUENTES\SOLTIC\BARRANCA\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csprojResolveAssemblyReference.cache
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\gestion_documental.dll
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\gestion_documental.pdb
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\AjaxControlToolkit.dll
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\CKEditor.NET.dll
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\ExcelLibrary.dll
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\LumiSoft.Net.dll
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\OpenPop.dll
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\LumiSoft.Net.pdb
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\LumiSoft.Net.xml
+F:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.ResolveComReference.cache
+F:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\gestion_documental.dll
+F:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\gestion_documental.pdb
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\bin\gestion_documental.dll
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\bin\gestion_documental.pdb
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\bin\AjaxControlToolkit.dll
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\bin\CKEditor.NET.dll
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\bin\ExcelLibrary.dll
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\bin\LumiSoft.Net.dll
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\bin\OpenPop.dll
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\bin\LumiSoft.Net.pdb
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\bin\LumiSoft.Net.xml
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\obj\Debug\gestion_documental.csprojResolveAssemblyReference.cache
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\obj\Debug\gestion_documental.csproj.ResolveComReference.cache
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\obj\Debug\RdlCompile.cache
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\obj\Debug\RdlCompile.compiled
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\obj\Debug\gestion_documental.dll
+F:\RepositoriosGIT\centurion_doc REAL\gestion_documental\obj\Debug\gestion_documental.pdb
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\gestion_documental.dll.config
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\DocumentFormat.OpenXml.dll
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\Microsoft.ReportViewer.WebForms.dll
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\MySql.Data.dll
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\MySql.Data.Entity.dll
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\MySql.Web.dll
+F:\RepositoriosGIT\centurion_doc\gestion_documental\bin\Microsoft.ReportViewer.Common.dll
+F:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csprojAssemblyReference.cache
+F:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.CoreCompileInputs.cache
+F:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.CopyComplete
+C:\Soltic\gestion_documental\bin\gestion_documental.dll
+C:\Soltic\gestion_documental\bin\gestion_documental.pdb
+C:\Soltic\gestion_documental\bin\AjaxControlToolkit.dll
+C:\Soltic\gestion_documental\bin\CKEditor.NET.dll
+C:\Soltic\gestion_documental\bin\DocumentFormat.OpenXml.dll
+C:\Soltic\gestion_documental\bin\ExcelLibrary.dll
+C:\Soltic\gestion_documental\bin\LumiSoft.Net.dll
+C:\Soltic\gestion_documental\bin\MySql.Data.dll
+C:\Soltic\gestion_documental\bin\MySql.Data.Entity.dll
+C:\Soltic\gestion_documental\bin\MySql.Web.dll
+C:\Soltic\gestion_documental\bin\OpenPop.dll
+C:\Soltic\gestion_documental\bin\LumiSoft.Net.pdb
+C:\Soltic\gestion_documental\bin\LumiSoft.Net.xml
+C:\Soltic\gestion_documental\obj\Debug\RdlCompile.cache
+C:\Soltic\gestion_documental\obj\Debug\RdlCompile.compiled
+C:\Soltic\gestion_documental\obj\Debug\gestion_documental.dll
+C:\Soltic\gestion_documental\obj\Debug\gestion_documental.pdb
+G:\RepositoriosGIT\centurion_doc\gestion_documental\bin\gestion_documental.dll
+G:\RepositoriosGIT\centurion_doc\gestion_documental\bin\gestion_documental.pdb
+G:\RepositoriosGIT\centurion_doc\gestion_documental\bin\AjaxControlToolkit.dll
+G:\RepositoriosGIT\centurion_doc\gestion_documental\bin\CKEditor.NET.dll
+G:\RepositoriosGIT\centurion_doc\gestion_documental\bin\DocumentFormat.OpenXml.dll
+G:\RepositoriosGIT\centurion_doc\gestion_documental\bin\ExcelLibrary.dll
+G:\RepositoriosGIT\centurion_doc\gestion_documental\bin\LumiSoft.Net.dll
+G:\RepositoriosGIT\centurion_doc\gestion_documental\bin\MySql.Data.dll
+G:\RepositoriosGIT\centurion_doc\gestion_documental\bin\MySql.Data.Entity.dll
+G:\RepositoriosGIT\centurion_doc\gestion_documental\bin\MySql.Web.dll
+G:\RepositoriosGIT\centurion_doc\gestion_documental\bin\OpenPop.dll
+G:\RepositoriosGIT\centurion_doc\gestion_documental\bin\LumiSoft.Net.pdb
+G:\RepositoriosGIT\centurion_doc\gestion_documental\bin\LumiSoft.Net.xml
+G:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\RdlCompile.cache
+G:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\RdlCompile.compiled
+G:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\gestion_documental.dll
+G:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\gestion_documental.pdb
+H:\RepositoriosGIT\centurion_doc\gestion_documental\bin\gestion_documental.dll
+H:\RepositoriosGIT\centurion_doc\gestion_documental\bin\gestion_documental.pdb
+H:\RepositoriosGIT\centurion_doc\gestion_documental\bin\AjaxControlToolkit.dll
+H:\RepositoriosGIT\centurion_doc\gestion_documental\bin\CKEditor.NET.dll
+H:\RepositoriosGIT\centurion_doc\gestion_documental\bin\DocumentFormat.OpenXml.dll
+H:\RepositoriosGIT\centurion_doc\gestion_documental\bin\ExcelLibrary.dll
+H:\RepositoriosGIT\centurion_doc\gestion_documental\bin\LumiSoft.Net.dll
+H:\RepositoriosGIT\centurion_doc\gestion_documental\bin\MySql.Data.dll
+H:\RepositoriosGIT\centurion_doc\gestion_documental\bin\MySql.Data.Entity.dll
+H:\RepositoriosGIT\centurion_doc\gestion_documental\bin\MySql.Web.dll
+H:\RepositoriosGIT\centurion_doc\gestion_documental\bin\OpenPop.dll
+H:\RepositoriosGIT\centurion_doc\gestion_documental\bin\LumiSoft.Net.pdb
+H:\RepositoriosGIT\centurion_doc\gestion_documental\bin\LumiSoft.Net.xml
+H:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\RdlCompile.cache
+H:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\RdlCompile.compiled
+H:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\gestion_documental.dll
+H:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\gestion_documental.pdb
+H:\RepositoriosGIT\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csprojResolveAssemblyReference.cache
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\gestion_documental.dll.config
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\gestion_documental.dll
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\gestion_documental.pdb
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\AjaxControlToolkit.dll
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\CKEditor.NET.dll
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\DocumentFormat.OpenXml.dll
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\ExcelLibrary.dll
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\LumiSoft.Net.dll
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\MySql.Data.dll
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\MySql.Data.Entity.dll
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\MySql.Web.dll
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\OpenPop.dll
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\LumiSoft.Net.pdb
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\bin\LumiSoft.Net.xml
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.CoreCompileInputs.cache
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.CopyComplete
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\obj\Debug\gestion_documental.dll
+C:\ArchivosWillmer\Proyectos\SOLTIC\centurion_doc\gestion_documental\obj\Debug\gestion_documental.pdb
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\gestion_documental.dll.config
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\gestion_documental.dll
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\gestion_documental.pdb
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\AjaxControlToolkit.dll
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\CKEditor.NET.dll
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\DocumentFormat.OpenXml.dll
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\ExcelLibrary.dll
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\LumiSoft.Net.dll
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\MySql.Data.dll
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\MySql.Data.Entity.dll
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\MySql.Web.dll
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\OpenPop.dll
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\LumiSoft.Net.pdb
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\bin\LumiSoft.Net.xml
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.CoreCompileInputs.cache
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csproj.CopyComplete
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\obj\Debug\gestion_documental.dll
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\obj\Debug\gestion_documental.pdb
+C:\PEREZGOMEZ\avance 2021-08-07\centurion_doc\gestion_documental\obj\Debug\gestion_documental.csprojAssemblyReference.cache

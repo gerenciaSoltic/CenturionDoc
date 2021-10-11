@@ -1,0 +1,43 @@
+﻿body { 
+  color : #000000; 
+  background : #ffffff; 
+  font-family : "Times New Roman", Times, serif;
+  font-size : 12pt; 
+}
+a { 
+  text-decoration : underline; 
+  color : #0000ff; 
+}
+#navigation, #advertising, #other { 
+  display : none; 
+}
+#table1
+{
+    /*
+    font-size: x-small; 
+    background-image: url('../Images2/formRad.png'); 
+    background-repeat: no-repeat;
+    display:inline;   
+   
+    
+    display: list-item;
+    list-style-image: url(../Images2/formRad.png);
+    list-style-position: inside;
+     z-index:10000;
+*/
+    
+    
+    content: url('../Images2/formRad1.png');
+    z-index:10000 !important;
+    display:inline; 
+    list-style-position: inside;
+    -webkit-print-color-adjust:exact;
+   
+
+
+ 
+ }
+ 
+ #logotype a { content: url('../Images2/formRad.png'); }
+ 
+ 

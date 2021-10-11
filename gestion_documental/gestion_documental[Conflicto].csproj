@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8F2181AF-6831-418D-A5EE-AA1904BCF3D1}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>gestion_documental</RootNamespace>
+    <AssemblyName>gestion_documental</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>lib\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="LumiSoft.Net">
+      <HintPath>lib\LumiSoft.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data">
+      <HintPath>lib\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity">
+      <HintPath>lib\MySql.Data.Entity.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Web">
+      <HintPath>lib\MySql.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenPop">
+      <HintPath>lib\OpenPop.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Account\ChangePassword.aspx" />
+    <Content Include="Account\ChangePasswordSuccess.aspx" />
+    <Content Include="Account\Login.aspx" />
+    <Content Include="Account\Register.aspx" />
+    <Content Include="bin\gestion_documental.dll" />
+    <Content Include="bin\gestion_documental.pdb" />
+    <Content Include="CorreoEntrante.aspx" />
+    <Content Include="CorreoSaliente.aspx" />
+    <Content Include="docPendi.aspx" />
+    <Content Include="Images2\entrada.png" />
+    <Content Include="Images2\logo_construsoft.gif" />
+    <Content Include="Images2\logo_construsoft.png" />
+    <Content Include="Images2\logo_gestion.png" />
+    <Content Include="Images\aceptar.png" />
+    <Content Include="Images\arrow.png" />
+    <Content Include="Images\arrow2.png" />
+    <Content Include="Images\arrow3.png" />
+    <Content Include="Images\arrow5.png" />
+    <Content Include="Images\arrow6.png" />
+    <Content Include="Images\BANNER1.jpg" />
+    <Content Include="Images\BANNER2.jpg" />
+    <Content Include="Images\BANNER3.jpg" />
+    <Content Include="Images\BANNER3.png" />
+    <Content Include="Images\BANNER4.jpg" />
+    <Content Include="Images\bienvenido.jpg" />
+    <Content Include="Images\bienvenido.png" />
+    <Content Include="Images\boton.jpg" />
+    <Content Include="Images\botonselected.jpg" />
+    <Content Include="Images\botonselected2.jpg" />
+    <Content Include="Images\botonselected3.jpg" />
+    <Content Include="Images\buscar.jpg" />
+    <Content Include="Images\cancelar.png" />
+    <Content Include="Images\configuracion.txt" />
+    <Content Include="Images\edit.png" />
+    <Content Include="Images\ejemplo.jpg" />
+    <Content Include="Images\encabezado_soft_login.png" />
+    <Content Include="Images\entrada.png" />
+    <Content Include="Images\gestionImage1.JPG" />
+    <Content Include="Images\gestionImage2.jpg" />
+    <Content Include="Images\gestionImage3.JPG" />
+    <Content Include="Images\guardar.jpg" />
+    <Content Include="Images\guardar.png" />
+    <Content Include="Images\home.htm" />
+    <Content Include="Images\home.png" />
+    <Content Include="Images\home2.png" />
+    <Content Include="Images\home3.png" />
+    <Content Include="Images\ilocalizable.png" />
+    <Content Include="Images\loading_icon.gif" />
+    <Content Include="Images\logo_construsoft.gif" />
+    <Content Include="Images\logo_construsoft.png" />
+    <Content Include="Images\logo_construsoftnuevo.png" />
+    <Content Include="Images\logo_gestion.png" />
+    <Content Include="Images\new.png" />
+    <Content Include="Images\new2.png" />
+    <Content Include="Images\nuevo.jpg" />
+    <Content Include="Images\nuevo2.jpg" />
+    <Content Include="Images\nuevo3.jpg" />
+    <Content Include="Images\print.png" />
+    <Content Include="Images\print2.png" />
+    <Content Include="Images\print4.png" />
+    <Content Include="Images\readmail.ico" />
+    <Content Include="Images\readmail.png" />
+    <Content Include="Images\remove.png" />
+    <Content Include="Images\row4.png" />
+    <Content Include="Images\rrow4.png" />
+    <Content Include="Images\salir.ico" />
+    <Content Include="Images\salir.jpg" />
+    <Content Include="Images\salir.png" />
+    <Content Include="Images\salir2.png" />
+    <Content Include="Images\save.png" />
+    <Content Include="Images\Site.css" />
+    <Content Include="Images\undo.png" />
+    <Content Include="Images\ícono_construsoft.png" />
+    <Content Include="ManageConfiCor.aspx" />
+    <Content Include="ManageConfigwf.aspx" />
+    <Content Include="ManageEmiRecep.aspx" />
+    <Content Include="ManageEnte.aspx" />
+    <Content Include="ManageSerie.aspx" />
+    <Content Include="ManageSubSerie.aspx" />
+    <Content Include="ManageTipologia.aspx" />
+    <Content Include="ManageUsuarios.aspx" />
+    <Content Include="menuppal.aspx" />
+    <Content Include="nuevas imagenes\bienvenido.png" />
+    <Content Include="nuevas imagenes\encabezado_soft_login.png" />
+    <Content Include="nuevas imagenes\logo_construsoftnuevo.png" />
+    <Content Include="nuevas imagenes\ícono_construsoft.png" />
+    <Content Include="obj\Debug\gestion_documental.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\gestion_documental.dll" />
+    <Content Include="obj\Debug\gestion_documental.pdb" />
+    <Content Include="SpryAssets\SpryAccordion.css" />
+    <Content Include="SpryAssets\SpryAccordion.js" />
+    <Content Include="Styles\imagenes\aceptar.png" />
+    <Content Include="Styles\imagenes\arrow.png" />
+    <Content Include="Styles\imagenes\arrow2.png" />
+    <Content Include="Styles\imagenes\arrow3.png" />
+    <Content Include="Styles\imagenes\arrow5.png" />
+    <Content Include="Styles\imagenes\arrow6.png" />
+    <Content Include="Styles\imagenes\BANNER1.jpg" />
+    <Content Include="Styles\imagenes\BANNER2.jpg" />
+    <Content Include="Styles\imagenes\BANNER3.jpg" />
+    <Content Include="Styles\imagenes\BANNER3.png" />
+    <Content Include="Styles\imagenes\BANNER4.jpg" />
+    <Content Include="Styles\imagenes\boton.jpg" />
+    <Content Include="Styles\imagenes\botonselected.jpg" />
+    <Content Include="Styles\imagenes\botonselected2.jpg" />
+    <Content Include="Styles\imagenes\botonselected3.jpg" />
+    <Content Include="Styles\imagenes\buscar.jpg" />
+    <Content Include="Styles\imagenes\cancelar.png" />
+    <Content Include="Styles\imagenes\configuracion.txt" />
+    <Content Include="Styles\imagenes\edit.png" />
+    <Content Include="Styles\imagenes\ejemplo.jpg" />
+    <Content Include="Styles\imagenes\guardar.jpg" />
+    <Content Include="Styles\imagenes\guardar.png" />
+    <Content Include="Styles\imagenes\home.htm" />
+    <Content Include="Styles\imagenes\home.png" />
+    <Content Include="Styles\imagenes\home2.png" />
+    <Content Include="Styles\imagenes\home3.png" />
+    <Content Include="Styles\imagenes\loading_icon.gif" />
+    <Content Include="Styles\imagenes\new.png" />
+    <Content Include="Styles\imagenes\new2.png" />
+    <Content Include="Styles\imagenes\nuevo.jpg" />
+    <Content Include="Styles\imagenes\nuevo2.jpg" />
+    <Content Include="Styles\imagenes\nuevo3.jpg" />
+    <Content Include="Styles\imagenes\print.png" />
+    <Content Include="Styles\imagenes\print2.png" />
+    <Content Include="Styles\imagenes\print4.png" />
+    <Content Include="Styles\imagenes\readmail.ico" />
+    <Content Include="Styles\imagenes\readmail.png" />
+    <Content Include="Styles\imagenes\remove.png" />
+    <Content Include="Styles\imagenes\row4.png" />
+    <Content Include="Styles\imagenes\rrow4.png" />
+    <Content Include="Styles\imagenes\salir.ico" />
+    <Content Include="Styles\imagenes\salir.jpg" />
+    <Content Include="Styles\imagenes\salir.png" />
+    <Content Include="Styles\imagenes\salir2.png" />
+    <Content Include="Styles\imagenes\save.png" />
+    <Content Include="Styles\imagenes\Site.css" />
+    <Content Include="Styles\imagenes\undo.png" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="SystemSettings.aspx" />
+    <Content Include="UserControls\MenuUserControl.ascx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.designer.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObjects\Adjuntos.cs" />
+    <Compile Include="BusinessObjects\Archivo.cs" />
+    <Compile Include="BusinessObjects\Archivolog.cs" />
+    <Compile Include="BusinessObjects\Avaluo.cs" />
+    <Compile Include="BusinessObjects\Cargo.cs" />
+    <Compile Include="BusinessObjects\Centro.cs" />
+    <Compile Include="BusinessObjects\ConfiCor.cs" />
+    <Compile Include="BusinessObjects\Configwf.cs" />
+    <Compile Include="BusinessObjects\CorreoEntrante.cs" />
+    <Compile Include="BusinessObjects\CorreoSaliente.cs" />
+    <Compile Include="BusinessObjects\EmiRecep.cs" />
+    <Compile Include="BusinessObjects\Ente.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BusinessObjects\Serie.cs" />
+    <Compile Include="BusinessObjects\SubSerie.cs" />
+    <Compile Include="BusinessObjects\TipoEmiRec.cs" />
+    <Compile Include="BusinessObjects\Tipologia.cs" />
+    <Compile Include="BusinessObjects\Usuarios.cs" />
+    <Compile Include="codigo\datos.cs" />
+    <Compile Include="CorreoEntrante.aspx.cs">
+      <DependentUpon>CorreoEntrante.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CorreoEntrante.aspx.designer.cs">
+      <DependentUpon>CorreoEntrante.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CorreoSaliente.aspx.cs">
+      <DependentUpon>CorreoSaliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CorreoSaliente.aspx.designer.cs">
+      <DependentUpon>CorreoSaliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccessLayer\AdjuntosManagement.cs" />
+    <Compile Include="DataAccessLayer\ArchivoManagement.cs" />
+    <Compile Include="DataAccessLayer\CargoManagement.cs" />
+    <Compile Include="DataAccessLayer\ConfiCorManagement.cs" />
+    <Compile Include="DataAccessLayer\ConfigwsManagement.cs" />
+    <Compile Include="DataAccessLayer\CorreoEntranteManagement.cs" />
+    <Compile Include="DataAccessLayer\CorreoSalienteManagement.cs" />
+    <Compile Include="DataAccessLayer\EmiRecepManagement.cs" />
+    <Compile Include="DataAccessLayer\EnteManagement.cs" />
+    <Compile Include="DataAccessLayer\SerieManagement.cs" />
+    <Compile Include="DataAccessLayer\SubSerieManagement.cs" />
+    <Compile Include="DataAccessLayer\TipoEmiRecManagement.cs" />
+    <Compile Include="DataAccessLayer\TipologiaManagement.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataAccessLayer\UsuariosManagement.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="docPendi.aspx.cs">
+      <DependentUpon>docPendi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="docPendi.aspx.designer.cs">
+      <DependentUpon>docPendi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="ManageConfiCor.aspx.cs">
+      <DependentUpon>ManageConfiCor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManageConfiCor.aspx.designer.cs">
+      <DependentUpon>ManageConfiCor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManageConfigwf.aspx.cs">
+      <DependentUpon>ManageConfigwf.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManageConfigwf.aspx.designer.cs">
+      <DependentUpon>ManageConfigwf.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManageEmiRecep.aspx.cs">
+      <DependentUpon>ManageEmiRecep.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManageEmiRecep.aspx.designer.cs">
+      <DependentUpon>ManageEmiRecep.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManageEnte.aspx.cs">
+      <DependentUpon>ManageEnte.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManageEnte.aspx.designer.cs">
+      <DependentUpon>ManageEnte.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManageSerie.aspx.cs">
+      <DependentUpon>ManageSerie.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManageSerie.aspx.designer.cs">
+      <DependentUpon>ManageSerie.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManageSubSerie.aspx.cs">
+      <DependentUpon>ManageSubSerie.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManageSubSerie.aspx.designer.cs">
+      <DependentUpon>ManageSubSerie.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManageTipologia.aspx.cs">
+      <DependentUpon>ManageTipologia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManageTipologia.aspx.designer.cs">
+      <DependentUpon>ManageTipologia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManageUsuarios.aspx.cs">
+      <DependentUpon>ManageUsuarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManageUsuarios.aspx.designer.cs">
+      <DependentUpon>ManageUsuarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="menuppal.aspx.cs">
+      <DependentUpon>menuppal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="menuppal.aspx.designer.cs">
+      <DependentUpon>menuppal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SystemSettings.aspx.cs">
+      <DependentUpon>SystemSettings.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SystemSettings.aspx.designer.cs">
+      <DependentUpon>SystemSettings.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MenuUserControl.ascx.cs">
+      <DependentUpon>MenuUserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\MenuUserControl.ascx.designer.cs">
+      <DependentUpon>MenuUserControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Utils\ConnectionClass.cs" />
+    <Compile Include="Utils\SessionDocumental.cs" />
+    <Compile Include="Utils\Util.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="gestionEmail\" />
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DOCUMENTOS_PRUEBA\PE17112012_SOLICITUD DE COTIZACION.pdf" />
+    <None Include="DOCUMENTOS_PRUEBA\PE20121101_PROPUESTA HIPOCRATES GOBERNACIONES.doc" />
+    <None Include="DOCUMENTOS_PRUEBA\PE20121102_prueba de scanner.pdf" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <Content Include="Site.Master" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1613</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

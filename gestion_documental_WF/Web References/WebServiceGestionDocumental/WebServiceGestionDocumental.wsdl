@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="CargaArchivos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="par_archivo" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="par_nombre" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="par_usuario" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CargaArchivosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CargaArchivosResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CargaArchivosSoapIn">
+    <wsdl:part name="parameters" element="tns:CargaArchivos" />
+  </wsdl:message>
+  <wsdl:message name="CargaArchivosSoapOut">
+    <wsdl:part name="parameters" element="tns:CargaArchivosResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebServiceGestionDocumentalSoap">
+    <wsdl:operation name="CargaArchivos">
+      <wsdl:input message="tns:CargaArchivosSoapIn" />
+      <wsdl:output message="tns:CargaArchivosSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebServiceGestionDocumentalSoap" type="tns:WebServiceGestionDocumentalSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CargaArchivos">
+      <soap:operation soapAction="http://tempuri.org/CargaArchivos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebServiceGestionDocumentalSoap12" type="tns:WebServiceGestionDocumentalSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CargaArchivos">
+      <soap12:operation soapAction="http://tempuri.org/CargaArchivos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebServiceGestionDocumental">
+    <wsdl:port name="WebServiceGestionDocumentalSoap" binding="tns:WebServiceGestionDocumentalSoap">
+      <soap:address location="http://localhost:4202/WebServiceGestionDocumental.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WebServiceGestionDocumentalSoap12" binding="tns:WebServiceGestionDocumentalSoap12">
+      <soap12:address location="http://localhost:4202/WebServiceGestionDocumental.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

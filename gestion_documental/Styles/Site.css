@@ -1,0 +1,388 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+
+body
+{
+    background-color: #F2F2F2;
+    font-size: .80em;
+    font-family:Tahoma;
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+}
+
+
+.headGrid
+{
+    color: White;
+    text-align: center;
+    font-family:Tahoma;
+    font-size: smaller font-weight:bold;
+}
+
+.espacio
+{
+    height: 10px;
+}
+
+.buttonItem:hover
+{
+    color: #0404B4;
+}
+.headerAcordeonSelected,.headerAcordeonSelected2
+{
+    /*width: 94%;*/
+    height: 30px;
+    color: #0404B4;
+    text-align: left;
+    cursor: pointer;
+    font-family:Tahoma;
+    font-size: 13px;
+    padding-left: 12px;
+    padding-top: 7px;
+    background-image: url(imagenes/botonselected3.jpg);
+    border-width: 0;
+    border-style: outset;
+    border-color: Black;
+}
+
+
+.headerAcordeon,.headerAcordeon2
+{
+    /*width: 93%;*/
+    height: 30px;
+    color: Black;
+    text-align: left;
+    cursor: pointer;
+    font-family:Tahoma;
+    font-size: 12px;
+    padding-left: 10px;
+    background-image: url(imagenes/boton.jpg);
+    border-width: 0;
+    border-style: solid;
+    border-color:Black;
+    padding-top: 7px;
+}
+
+.headerAcordeon2,.headerAcordeonSelected2
+{
+    width: 88%;
+    height: 22px;
+    position:relative;
+    left:3%;
+    border-left-color:gray;
+    border-left-width:1px;
+    border-left-style:solid;
+    border-right-color:gray;
+    border-right-width:1px;
+    border-right-style:solid;
+ 
+}
+.headerAcordeonSelected2
+{
+border-left-color:#4169E1;
+border-right-color:#4169E1;
+}
+
+.listaMenu
+{
+    list-style-image:url(/styles/imagenes/arrow6.png);
+    
+}
+
+.contenidoAcordeon
+{
+    width: 100%;
+    height: 100%;
+    background-color: White;
+}
+
+.buttonItem
+{
+    color: #0B0B3B;
+    text-align: left;
+    cursor: pointer;
+    font-family:Tahoma;
+    font-size: 11px;    
+    text-align:left;
+    position: relative;
+    left: 2%;
+    text-decoration:none;
+    
+}
+a
+{
+    text-decoration:none;
+    color:Black;
+    font-family:Tahoma;
+    font-size: 11px;    
+}
+
+a:hover
+{
+    font-family:Tahoma;
+    font-size: 12px;    
+    color:#4169E1;
+}
+
+.dentroAreaTrabajo
+{
+    width: 100%;
+    height: 100%;
+    vertical-align: top;
+    
+}
+
+.mensajes
+{
+    width: 100%;
+    height: 40px;
+    text-indent: 20px;
+    font-weight: bold;
+}
+
+.tituloPanel
+{
+    background-color:#4169E1;
+    padding-top: 16px;
+     height: 10%;
+}
+.titulo
+{
+    width: 100%;
+    height: 48px;
+    border-width: 25;
+    border-color: black;
+    text-align: left;
+    text-indent: 20px;
+    color: White;
+    font-family:Tahoma;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.headMenu
+{
+    background-color: #E09603;
+    width: 100%;
+    height: 35px;
+    color: White;
+    text-align: center;
+    font-family:Tahoma;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.label
+{
+    color: Black;
+    font-weight: normal;
+}
+
+.groupbox
+{
+    font-family: Tahoma font-size: 20px;
+}
+
+leyend
+{
+    background-color:Red;
+    border-color:Red;
+}
+.HeaderGrid
+{
+    background-color: #4169E1;
+    height: 30px;
+    text-align: center;
+    border-style:solid;
+    border-width:2px;
+    border-color:Black;
+}
+
+.grid
+{
+    border: 0px solid Gray;
+}
+
+.textBox
+{
+    font-weight: bold;
+}
+
+.button
+{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    padding-top: 3px;
+    cursor: pointer;
+    font-weight:bold;
+}
+
+
+
+.textBox, .label
+{
+    text-align: left;
+}
+.imageButton
+{
+    float: left;
+    top: -2px;
+     padding-left:5px;
+    position: relative;
+    height: 20px;
+    width: 20px;
+}
+
+.textBox
+{
+    height: 20px;
+}
+.textBox, .button, .label, .HeaderGrid, .gridRow,.pager,.alternateRow,.combo,.optionGroup
+{
+    font-family: Tahoma;
+    font-size: 11px;
+}
+.combo
+{
+    font-weight:bold;        
+}
+
+
+.alternateRow
+{
+  background-color:#D3D3D3;
+}
+
+.gridRow,.alternateRow
+{
+    font-weight: normal;
+    color: Black;
+}
+
+
+
+.labelTitle
+{
+    color: Black;
+    font-family:Tahoma;
+    font-size: 12px;
+    font-weight: normal;
+    font-weight: bold;
+    width: 100%;
+    text-indent: 5px;
+}
+
+
+
+.topAreaTrabajo
+{
+    width: 78%;
+    background: #F2F2F2;
+}
+
+.areaTrabajo
+{
+    width: 100%;
+    height: 100%;
+    padding-left:50px;
+}
+
+.master
+{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.areaMenu
+{
+    height: 10%;
+    width: 10%;
+    background-color: #F2F2F2;
+}
+.contentMenu
+{
+    width: 100%;
+    background-color: White;
+}
+
+.tituloMenu
+{
+    padding-top: 15px;
+    background-color: #4169E1;
+    border-width: 2;
+    border-color: black;
+    text-align: center;
+    color: White;
+    font-family:Tahoma;
+    font-size: 12px;
+    font-weight: bold;
+    height = 10%;
+}
+.menu
+{
+    width: 100%;
+    height: 100%;
+}
+
+.menuItem
+{
+    width: 100%;
+    height: 40px;
+}
+
+.areaMenu, .colLeft
+{
+    width: 22%;
+}
+.otrasColumnas
+{
+    width: 26%;
+}
+
+.colLeft, .otrasColumnas
+{
+    /*height: 150px;*/
+    background-color: Gray;
+}
+
+
+.panel
+{
+    background-color: #F2F2F2;
+    font-family:Tahoma;
+    font-size: 20px;
+    font-weight: bold;
+    border-style: outset;
+    border-width: 0;
+    border-color: Black;
+    color: Black;
+    
+}
+
+.panelBuscar
+{
+    background-color: #F2F2F2;
+    font-family:Tahoma;
+    font-size: 13px;
+    font-weight: bold;
+    border-style: outset;
+    border-width: 0;
+    border-color: Black;
+    color: Black;    
+}
+
+li
+{
+    color: black;
+    text-decoration: none;
+}
+
+
+.fondoPopup
+{
+    background-color:Gray;
+}
